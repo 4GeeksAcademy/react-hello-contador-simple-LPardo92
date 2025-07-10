@@ -9,3 +9,37 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.bigCounter div{
+    display:flex;
+    font-size: 600px;
+    line-height: 20px;
+    height: 20px;
+    background: black;
+    color: white;
+    padding: 60px;
+    text-align: center;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    padding-top: 20%;
+   
+
+}
+
+ .card{
+    width: 11%;
+    padding-left: 4px;
+     background-color: black;
+    color: white; 
+}
+
+h1{
+    font-weight: 400;
+    font-size: 700%;
+}
+
+
+
